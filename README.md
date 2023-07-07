@@ -1,3 +1,3 @@
 # My_calc
 
-mi primerq calculadora
+mi primera calculadora
