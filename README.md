@@ -1,3 +1,3 @@
 # My_calc
 
-mi primera calculadora
+Calculadora simple en la que podras insertar dos numeros y obtener su suma, resta, multiplicacion o division.
